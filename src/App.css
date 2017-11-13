@@ -1,0 +1,19 @@
+
+
+.App {
+    text-align: center;
+    font-size: 1.2rem;
+    margin-top:20%;
+}
+
+.appTitle {
+    font-size: 1.5rem;
+}
+
+.clockDays, .clockMinutes, .clockHours, .clockSec {
+    display:inline;
+    margin:0.5rem;
+}
+
+
+
